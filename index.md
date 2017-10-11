@@ -25,6 +25,8 @@
   <hr>
  <h3>Links and Images</h3>
  <p>First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">my website</a></p>
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Robin%2C_Leighton_Moss_January_2009.jpg" />
   
   
 
