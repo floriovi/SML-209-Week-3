@@ -21,10 +21,10 @@
   
   <h3>Text styles</h3>
   <p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>OhNo!</em> he cried. </p>
-  
-  
+   
   <hr>
-  
+ <h3>Links and Images</h3>
+ <p>First I'm going to link to <a href="http://language-centre.sllf.qmul.ac.uk/language-centre/people/academic/barge.html">my website</a>
   
   
 
