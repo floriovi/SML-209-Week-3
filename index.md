@@ -32,15 +32,14 @@
   
   <hr>
  <h3>Video Presentation Week 9</h3>
- <p>First I'm going to link to <a href="https://www.youtube.com/watch?v=3aZHqfGEUPg">my youtube video of Berlin Street View</a></p>
+ <p>Secondly,  I'm going to link to <a href="https://www.youtube.com/watch?v=3aZHqfGEUPg">my youtube video of Berlin Street View</a></p>
 
 [![SML209 Video Presentation](https://img.youtube.com/vi/3aZHqfGEUPg/0.jpg)](https://www.youtube.com/watch?v=3aZHqfGEUPg)
 
 <iframe src="https://archive.org/embed/AudacityTestRecodingVincent" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-[tabgroup]
-[tab title="Tab 1" id="t1"]Tab 1 content[/tab]
+
 
 
 
