@@ -39,6 +39,9 @@
 <iframe src="https://archive.org/embed/AudacityTestRecodingVincent" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
+[tabgroup]
+[tab title="Tab 1" id="t1"]Tab 1 content[/tab]
+
 
 
 
